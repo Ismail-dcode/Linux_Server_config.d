@@ -1,7 +1,7 @@
 # 🚀 AWS EC2 Secure File Transfer Using Custom SSH Port (18000)
 
 <p align="center">
-  <img src="architecture.png" alt="Architecture Diagram" width="900"/>
+  <img src="architecture-diagram.png" alt="Architecture Diagram" width="900"/>
 </p>
 
 <p align="center">
